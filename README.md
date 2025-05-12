@@ -20,4 +20,4 @@ A modern, responsive blog website with smooth animations and interactive feature
 
 ## Live Demo
 
-You can view the live site at: [Your GitHub Pages URL will go here] 
+You can view the live site at:[ https://kanestar.github.io/webdev-project/]
